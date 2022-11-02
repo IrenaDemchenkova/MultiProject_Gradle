@@ -1,0 +1,5 @@
+rootProject.name = 'MultiProject_Gradle'
+include 'db'
+include 'api'
+include 'service'
+
